@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Test": {
+      "commandName": "Executable",
+      "executablePath": "C:\\Users\\aless\\Desktop\\VISUAL STUDIO\\MemoList\\bin\\Release\\net6.0-windows10.0.22621.0\\win-x64\\MemoList_.exe"
+    }
+  }
+}
